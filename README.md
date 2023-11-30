@@ -1,9 +1,9 @@
-# xtract_fl: PDF Text Comparison
+# Anomaly Detection: PDF Text Comparison
 This repository contains code that extracts text from two PDF documents, compares them, and highlights the differences between the texts.
 
 ## Overview
 
-The purpose of this project is to provide a tool that can analyze textual differences between two PDF files. The code extracts the text content from the provided PDFs and performs a comparison to identify variations or discrepancies between them. The differences are then highlighted for easy identification and analysis.
+The purpose of this project is to provide a tool that can analyze textual differences between two PDF files and highlight the anomaly regions. The code extracts the text content from the provided PDFs and performs a comparison to identify variations or discrepancies between them. The differences are then highlighted for easy identification and analysis.
 
 ## Requirements
 
